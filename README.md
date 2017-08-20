@@ -10,3 +10,10 @@ This repository contains projects and other course related material from the CSC
 8. Recommender System using Graph Embedding
 9. Deep Learning
 
+Homeworks/
+1. Logistic Regression
+2. Bayesian Parameter Estimation
+3. Time Series
+4. ARIMA
+5. Design & Analysis of ML Experiments
+
