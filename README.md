@@ -19,4 +19,5 @@ Homeworks/
 5. Design & Analysis of ML Experiments
 
 Capstone/
+
 Project on "Digit Recognizer" - A comparison between different classifiers using hypothesis testing
